@@ -30,7 +30,7 @@ python-dateutil==2.8.1
 pyzmq==19.0.1
 scipy==0.18.1
 six==1.15.0
-tensorflow==1.2.1
+tensorflow==2.5.3
 tornado==6.0.4
 traitlets==4.3.3
 wcwidth==0.1.9
